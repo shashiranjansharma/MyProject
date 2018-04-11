@@ -32,6 +32,7 @@ public class Test2 {
 	public void myfunction() throws Exception {
 		driver.get("https://google.com");
 		Thread.sleep(5000);
+		//this is to test 
 	}
 	
 }
