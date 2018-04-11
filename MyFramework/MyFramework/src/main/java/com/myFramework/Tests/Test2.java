@@ -29,8 +29,9 @@ public class Test2 {
 	}
 
 	@Test
-	public void myfunction() {
+	public void myfunction() throws Exception {
 		driver.get("https://google.com");
+		Thread.sleep(5000);
 	}
 	
 }
