@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3169" started-at="2018-04-10T17:23:36Z" finished-at="2018-04-10T17:23:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3169" started-at="2018-04-10T17:23:36Z" finished-at="2018-04-10T17:23:39Z">
+      <class name="com.myFramework.Tests.Test2">
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:com.myFramework.Tests.Test2@1753acfe]" name="setupDriver" is-config="true" duration-ms="4447" started-at="2018-04-10T22:53:31Z" finished-at="2018-04-10T22:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="myfunction()[pri:0, instance:com.myFramework.Tests.Test2@1753acfe]" name="myfunction" duration-ms="3147" started-at="2018-04-10T22:53:36Z" finished-at="2018-04-10T22:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myfunction -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.myFramework.Tests.Test2@1753acfe]" name="closeDriver" is-config="true" duration-ms="719" started-at="2018-04-10T22:53:39Z" finished-at="2018-04-10T22:53:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.myFramework.Tests.Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
