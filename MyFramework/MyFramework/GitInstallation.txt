@@ -1,0 +1,8 @@
+Git installation process
+After installing GIT follow below commands.
+#a cd Project folder
+#1 git init
+#2 git config user.name "someone"
+#3 git config user.email "someone@someplace.com"
+#4 git add *
+#5 git commit -m "some init msg"
